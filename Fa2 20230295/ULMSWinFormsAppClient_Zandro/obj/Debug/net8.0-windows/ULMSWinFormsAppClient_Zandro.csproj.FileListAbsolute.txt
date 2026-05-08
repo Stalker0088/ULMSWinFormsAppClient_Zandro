@@ -1,0 +1,16 @@
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\Fa2\ULMSWinFormsAppClient_Zandro\bin\Debug\net8.0-windows\ULMSWinFormsAppClient_Zandro.exe
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\Fa2\ULMSWinFormsAppClient_Zandro\bin\Debug\net8.0-windows\ULMSWinFormsAppClient_Zandro.deps.json
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\Fa2\ULMSWinFormsAppClient_Zandro\bin\Debug\net8.0-windows\ULMSWinFormsAppClient_Zandro.runtimeconfig.json
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\Fa2\ULMSWinFormsAppClient_Zandro\bin\Debug\net8.0-windows\ULMSWinFormsAppClient_Zandro.dll
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\Fa2\ULMSWinFormsAppClient_Zandro\bin\Debug\net8.0-windows\ULMSWinFormsAppClient_Zandro.pdb
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\Fa2\ULMSWinFormsAppClient_Zandro\obj\Debug\net8.0-windows\ULMSWinFormsAppClient_Zandro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\Fa2\ULMSWinFormsAppClient_Zandro\obj\Debug\net8.0-windows\ULMSWinFormsAppClient_Zandro.AssemblyInfoInputs.cache
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\Fa2\ULMSWinFormsAppClient_Zandro\obj\Debug\net8.0-windows\ULMSWinFormsAppClient_Zandro.AssemblyInfo.cs
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\Fa2\ULMSWinFormsAppClient_Zandro\obj\Debug\net8.0-windows\ULMSWinFormsAppClient_Zandro.csproj.CoreCompileInputs.cache
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\Fa2\ULMSWinFormsAppClient_Zandro\obj\Debug\net8.0-windows\ULMSWinFormsAppClient_Zandro.dll
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\Fa2\ULMSWinFormsAppClient_Zandro\obj\Debug\net8.0-windows\refint\ULMSWinFormsAppClient_Zandro.dll
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\Fa2\ULMSWinFormsAppClient_Zandro\obj\Debug\net8.0-windows\ULMSWinFormsAppClient_Zandro.pdb
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\Fa2\ULMSWinFormsAppClient_Zandro\obj\Debug\net8.0-windows\ULMSWinFormsAppClient_Zandro.genruntimeconfig.cache
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\Fa2\ULMSWinFormsAppClient_Zandro\obj\Debug\net8.0-windows\ref\ULMSWinFormsAppClient_Zandro.dll
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\Fa2\ULMSWinFormsAppClient_Zandro\obj\Debug\net8.0-windows\ULMSWinFormsAppClient_Zandro.MainForm.resources
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\Fa2\ULMSWinFormsAppClient_Zandro\obj\Debug\net8.0-windows\ULMSWinFormsAppClient_Zandro.csproj.GenerateResource.cache
